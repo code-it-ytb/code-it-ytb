@@ -3,7 +3,7 @@
 - 🎥 Dans mes vidéos , je parle de HTML de JavaScript de CSS de mais aussi Python de Batch et même de JSON .
 - 📫 Contactez-moi sur code.it.ytb@gmail.com
 
-Description
+Description :
 Sur Code-it ,on vous apprend à coder en HTML , JavaScript , CSS , mais aussi Python , Batch et même en JSON .
 Le Python pourront vous servir à créer un Jeu / une application .
 Le HTML le CSS et le JavaScript pourront vous servir à créer un jeu / une appli / ou une extension Google Chrome si on y ajoute du JSON .
